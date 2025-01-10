@@ -1,7 +1,3 @@
-Here is a **README** file for the To-Do List Manager project that incorporates **stack**, **queue**, and **linked list** data structures.
-
----
-
 # To-Do List Manager - Python Project
 
 ## Project Overview
@@ -106,18 +102,3 @@ This Python project effectively uses three essential data structures—**Stack**
 
 ### **Conclusion:**
 This project successfully demonstrates the implementation and practical applications of stack, queue, and linked list data structures in Python. By applying these data structures to a real-world use case (task management), we can observe their strengths in different scenarios, such as managing tasks in a LIFO (stack), FIFO (queue), or linked sequence (linked list). These data structures provide efficient ways of organizing, accessing, and removing data, making them essential tools for a variety of software solutions.
-
-### **Future Improvements**:
-- Add a user interface (UI) using `tkinter` or a web framework like Flask to make the application more interactive.
-- Implement task prioritization, where tasks with higher priority are handled first, using additional data structures like heaps.
-- Allow tasks to have due dates and status (e.g., pending, completed).
-
----
-
-### License
-
-This project is open-source and available under the MIT License.
-
---- 
-
-This **README** file includes everything from project setup to technology used and usage examples.
